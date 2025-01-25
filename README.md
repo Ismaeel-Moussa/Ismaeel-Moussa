@@ -1,4 +1,4 @@
-# Hi there! 👋
+## Hi there! 👋
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineering student** at **Altınbaş University**, set to graduate in **2027**. I love coding, problem-solving, and building projects that make an impact. 
 
@@ -12,33 +12,29 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineering student** 
 
 ---
 
-## Skills
+## Technical Skills
 
-### Programming Languages
-- **C**  
 - **C++**  
 - **C#**  
-
-### Core Concepts
 - **Object-Oriented Programming (OOP)**  
 - **Problem-Solving**  
-
-### Databases
 - **Database Design**  
 - **SQL Server**  
-
-### Backend Development
 - **RESTful APIs**  
 - **.NET Framework**  
 
+### Languages
+- **Arabic**: Native  
+- **English**: Intermediate  
+
 ---
 
-## What I'm Working On
+### What I'm Working On
 I am currently enhancing my skills in software development and exploring exciting technologies to apply my knowledge in real-world projects.
 
 ---
 
-## Let's Connect!
+### Let's Connect!
 Feel free to reach out to me if you'd like to collaborate, share ideas, or discuss tech! I'm always open to learning and connecting with like-minded individuals.  
 
 📫 **Email**: [ismaeel.moussa1@gmail.com]  
