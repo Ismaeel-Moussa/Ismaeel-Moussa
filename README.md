@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineering student** 
 ---
 
 ### What I'm Working On
-I am currently enhancing my skills in software development and exploring exciting technologies to apply my knowledge in real-world projects.
+I am currently enhancing my skills in backend and frontend development with the goal of becoming a proficient Full Stack Developer.
 
 ---
 
