@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineering student** at **Altınbaş University**, set to graduate in **2027**. I love coding, problem-solving, and building projects that make an impact. 
+I am a passionate Software Engineering student, actively enhancing my skills in backend and frontend development with the goal of becoming a proficient Full Stack Developer.
 
 ---
 
