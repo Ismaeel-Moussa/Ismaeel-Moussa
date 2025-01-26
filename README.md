@@ -1,11 +1,7 @@
-## Hi there! 👋
-
-I am a passionate Software Engineering student, actively enhancing my skills in backend and frontend development with the goal of becoming a proficient Full Stack Developer.
-
----
 
 ## About Me
 
+- I am a passionate Software Engineering student, actively enhancing my skills in backend and frontend development with the goal of becoming a proficient Full Stack Developer.
 - 🎓 **University**: Altınbaş University  
 - 🖥️ **Field of Study**: Software Engineering  
 - 🗓️ **Graduation Year**: 2027  
