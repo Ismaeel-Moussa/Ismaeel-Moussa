@@ -10,14 +10,14 @@
 
 ## Technical Skills
 
-- **C++**  
-- **C#**  
-- **Object-Oriented Programming (OOP)**  
-- **Problem-Solving**  
-- **Database Design**  
-- **SQL Server**  
-- **RESTful APIs**  
-- **.NET Framework**  
+## Technical Skills
+
+- **Programming Languages:** C#, C++
+- **Frameworks and Technologies:** .NET Framework, ADO.NET, WinForms
+- **Database Management:** SQL, MS SQL Server, T-SQL, Database Design
+- **Version Control & APIs:** Git, GitHub, RESTful APIs
+- **Soft Skills:** Communication, Teamwork, Attention to Detail, Time Management
+
 
 ### Languages
 - **Arabic**: Native  
