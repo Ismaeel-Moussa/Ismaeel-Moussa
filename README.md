@@ -10,8 +10,6 @@
 
 ## Technical Skills
 
-## Technical Skills
-
 - **Programming Languages:** C#, C++
 - **Frameworks and Technologies:** .NET Framework, ADO.NET, WinForms
 - **Database Management:** SQL, MS SQL Server, T-SQL, Database Design
