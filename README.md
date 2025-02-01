@@ -25,11 +25,6 @@
 
 ---
 
-### What I'm Working On
-I am currently enhancing my skills in backend and frontend development with the goal of becoming a proficient Full Stack Developer.
-
----
-
 ### Let's Connect!
 Feel free to reach out to me if you'd like to collaborate, share ideas, or discuss tech! I'm always open to learning and connecting with like-minded individuals.  
 
