@@ -26,11 +26,8 @@
 ---
 
 ### Let's Connect!
-Feel free to reach out to me if you'd like to collaborate, share ideas, or discuss tech! I'm always open to learning and connecting with like-minded individuals.  
 
 📫 **Email**: [ismaeel.moussa1@gmail.com]  
 💼 **LinkedIn**: [https://www.linkedin.com/in/ismaeel-moussa/]  
 
----
 
-Thanks for visiting my profile! Stay tuned for exciting projects and updates. 😊
