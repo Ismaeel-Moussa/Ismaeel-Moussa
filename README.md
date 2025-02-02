@@ -1,11 +1,8 @@
 
 ## About Me
 
-- I am a passionate Software Engineering student, actively enhancing my skills in backend and frontend development with the goal of becoming a proficient Full Stack Developer.
-- 🎓 **University**: Altınbaş University  
-- 🖥️ **Field of Study**: Software Engineering  
-- 🗓️ **Graduation Year**: 2027  
-
+- I am a Software Engineering student, actively enhancing my skills in backend and frontend development with the goal of becoming a proficient Full Stack Developer.
+- 
 ---
 
 ## Technical Skills
@@ -16,6 +13,11 @@
 - **Version Control & APIs:** Git, GitHub, RESTful APIs
 - **Soft Skills:** Communication, Teamwork, Attention to Detail, Time Management
 
+### Education
+
+- 🎓 **University**: Altınbaş University  
+- 🖥️ **Field of Study**: Software Engineering  
+- 🗓️ **Graduation Year**: 2027  
 
 ### Languages
 - **Arabic**: Native  
