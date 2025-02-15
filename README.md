@@ -20,8 +20,8 @@
 - 🗓️ **Graduation Year**: 2027  
 
 ### Languages
-- **Arabic**: Native  
-- **English**: Intermediate  
+- **Arabic**: (Native)  
+- **English**: (Upper-Intermediate)  
 
 ---
 
